@@ -1,9 +1,9 @@
-## 👋 ¡Hola! 
-Soy Johan Sánchez, Ingeniero Ambiental 🌿 y Desarrollador Web 💻 apasionado por la tecnología y el medio ambiente. Me encanta trabajar en proyectos que combinan mi experiencia en ingeniería ambiental con mi habilidad para desarrollar soluciones web innovadoras.
+👋 ¡Hola!
+Soy Johan Sánchez, Desarrollador Web Frontend 💻 con conocimientos en HTML, CSS, JavaScript y experiencia en el uso de React y Tailwind CSS. Ofrezco servicios de marketing digital, enfocados en la creación de landing pages efectivas y la gestión de Ads en redes sociales para ayudar a negocios a aumentar su visibilidad y ventas.
 
-Actualmente, estoy explorando el emocionante mundo del trading 📈, donde aplico mis habilidades analíticas y de programación para tomar decisiones financieras informadas.
+Además de mi pasión por el desarrollo web, tengo una sólida formación en ingeniería ambiental 🌿, lo que me permite aportar una perspectiva única a cada proyecto.
 
-¡Conéctate conmigo para hablar sobre desarrollo web, sostenibilidad ambiental o estrategias de trading! Estoy emocionado de aprender y crecer juntos. 😊
+Si estás buscando mejorar tu presencia en línea y atraer más clientes, ¡conéctate conmigo! 😊
 <!--
 **JohanSA7/JohanSA7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
