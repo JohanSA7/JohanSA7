@@ -1,9 +1,18 @@
 👋 ¡Hola!
-Soy Johan Sánchez, Desarrollador Web Frontend 💻 con conocimientos en HTML, CSS, JavaScript y experiencia en el uso de React y Tailwind CSS. Ofrezco servicios de marketing digital, enfocados en la creación de landing pages efectivas y la gestión de Ads en redes sociales para ayudar a negocios a aumentar su visibilidad y ventas.
+Soy Johan Sánchez, Desarrollador Web Frontend 💻 
 
-Además de mi pasión por el desarrollo web, tengo una sólida formación en ingeniería ambiental 🌿, lo que me permite aportar una perspectiva única a cada proyecto.
-
-Si estás buscando mejorar tu presencia en línea y atraer más clientes, ¡conéctate conmigo! 😊
+Conocimientos en HTML, CSS, JavaScript y Python. Experiencia en el uso de React y Tailwind CSS. 
+ 😊
+ 
+- 🔭 I’m currently working on REACT COMPOMENTS
+- 🌱 I’m currently learning REACT
+- 👯 I’m looking to collaborate on REACT COMPOMENTS
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Frontend Dev
+- 📫 How to reach me: johan.sanar@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <!--
 **JohanSA7/JohanSA7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
