@@ -4,13 +4,12 @@ Soy Johan Sánchez, Desarrollador Web Frontend 💻
 Conocimientos en HTML, CSS, JavaScript y Python. Experiencia en el uso de React y Tailwind CSS. 
  😊
  
-- 🔭 I’m currently working on REACT COMPOMENTS
+- 🔭 I’m currently working on REACT COMPONENTS
 - 🌱 I’m currently learning REACT
-- 👯 I’m looking to collaborate on REACT COMPOMENTS
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on REACT COMPONENTS
+- 🤔 I’m looking for help with a job 😄
 - 💬 Ask me about Frontend Dev
 - 📫 How to reach me: johan.sanar@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 <!--
